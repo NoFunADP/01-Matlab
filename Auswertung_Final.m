@@ -1,6 +1,6 @@
 clear
 clc
-
+close all
 
 %%Notizen und Ideen zum Skript
 % Vorhandensein der Roten, Farblosen und Jet- Anteile in einer Kontrollmatrix einpflegen. Manuelle Änderung des Skriptes recht aufwendig.
