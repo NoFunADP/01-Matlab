@@ -11,6 +11,7 @@ close all
 % >Geschwindigkeit der Tropfenausbreitung, Maß der Streuung, Größe der Tropfen
 % >Farbe der Tropfen durch Schwarz weis Auswerten ?
 
+%% Automtisierte Abfrage
 
 
 %% %% <- Für Teilschritte in denen der Anwendung etwas überprüfen oder eingeben muss.
